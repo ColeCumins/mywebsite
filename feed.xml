@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Barbeross</title>
+    <link href="https://colecumins.github.io/mywebsite/feed.xml" rel="self" />
+    <link href="https://colecumins.github.io/mywebsite" />
+    <updated>2024-09-05T09:04:47+02:00</updated>
+    <author>
+        <name>Bob</name>
+    </author>
+    <id>https://colecumins.github.io/mywebsite</id>
+
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>Bob</name>
+        </author>
+        <link href="https://colecumins.github.io/mywebsite/contact.html"/>
+        <id>https://colecumins.github.io/mywebsite/contact.html</id>
+
+        <updated>2024-09-05T08:25:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Contact me at bobcumming@gmail.com
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center">Contact me at bobcumming@gmail.com</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Recent Work</title>
+        <author>
+            <name>Bob</name>
+        </author>
+        <link href="https://colecumins.github.io/mywebsite/recent-work.html"/>
+        <id>https://colecumins.github.io/mywebsite/recent-work.html</id>
+
+        <updated>2024-09-05T08:15:25+02:00</updated>
+            <summary>
+                <![CDATA[
+                    This one was fire One of my best haircuts yet
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://colecumins.github.io/mywebsite/media/posts/3/gallery/bad-cut.jpg" data-size="271x186"><img loading="lazy" src="https://colecumins.github.io/mywebsite/media/posts/3/gallery/bad-cut-thumbnail.jpg" alt="" width="271" height="186"></a>
+<figcaption>This one was fire</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colecumins.github.io/mywebsite/media/posts/3/gallery/bad-cut-2.jpg" data-size="203x248"><img loading="lazy" src="https://colecumins.github.io/mywebsite/media/posts/3/gallery/bad-cut-2-thumbnail.jpg" alt="" width="203" height="248"></a>
+<figcaption>One of my best haircuts yet</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Bob</name>
+        </author>
+        <link href="https://colecumins.github.io/mywebsite/barbeross.html"/>
+        <id>https://colecumins.github.io/mywebsite/barbeross.html</id>
+
+        <updated>2024-09-05T08:15:10+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>BARBEROSS</title>
+        <author>
+            <name>Bob</name>
+        </author>
+        <link href="https://colecumins.github.io/mywebsite/about.html"/>
+        <id>https://colecumins.github.io/mywebsite/about.html</id>
+
+        <updated>2024-09-05T08:14:42+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Contact me at bobcumming@gmail.com 💯💯💯
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="8">
+<figure class="gallery__item"><a href="https://colecumins.github.io/mywebsite/media/posts/1/gallery/istockphoto-1224775347-612x612.jpg" data-size="612x612"><img loading="lazy" src="https://colecumins.github.io/mywebsite/media/posts/1/gallery/istockphoto-1224775347-612x612-thumbnail.jpg" alt="" width="612" height="612"></a></figure>
+</div></div>
+<p class="align-center">Contact me at bobcumming@gmail.com  </p>
+<p class="align-center">   💯💯💯</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
